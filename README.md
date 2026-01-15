@@ -4,8 +4,7 @@ This project hosts the code for implementing the TSMMR algorithm of The Visual C
 
 
 Template Sharing-Enhanced Mixed Mamba Network with Redetection Strategy for Multi-Drone Object Tracking
-![image](https://github.com/JerryBryant24/DSTII-MDOT/blob/main/experiments/2.png)
-
+![image](https://github.com/JerryBryant24/TSMMR/blob/main/12.jpg)
 
 [**[Models and Raw Results (Baidu)]**](https://pan.baidu.com/s/11D5LYVzc6mmHYRknH4q0Zg?pwd=7536 提取码: 7536)
 
