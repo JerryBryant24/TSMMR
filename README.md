@@ -8,7 +8,7 @@ This project hosts the code for implementing the TSMMR algorithm of The Visual C
 
 This repository contains the implementation of a novel Template Sharing-enhanced Mixed Mamba Network with Redetection strategy (TSMMR) for robust multi-drone single object tracking. The framework addresses key challenges such as viewpoint inconsistency, occlusion, and target loss in collaborative aerial systems. Its core innovations include a Dynamic Template Interaction Adapter (DTIA) for cross-drone feature complementation and a Text-Guided Cross-Drone Redetection strategy for robust recovery.
 
-[**[Models and Raw Results (Baidu)]**](https://pan.baidu.com/s/11D5LYVzc6mmHYRknH4q0Zg?pwd=7536 提取码: 7536)
+[**[Models and Raw Results (Baidu)]**](https://pan.baidu.com/s/1wbNr4GIy9gX8-9Ywj8TJUQ?pwd=7536 提取码: 7536)
 
 ### Acknowledgement
 The code based on the [PyTracking](https://github.com/visionml/pytracking), [PySOT](https://github.com/STVIR/pysot) , [SiamBAN](https://github.com/hqucv/siamban) ,
