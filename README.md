@@ -28,4 +28,5 @@ conda activate tsmmr
 # Train
 Start training using train.py
 
+# DOI
 [![DOI](https://zenodo.org/badge/1135137750.svg)](https://doi.org/10.5281/zenodo.18290398)
