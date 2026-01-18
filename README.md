@@ -3,7 +3,7 @@
 This project hosts the code for implementing the TSMMR algorithm of The Visual Computer Journal paper:
 
 
-# Template Sharing-Enhanced Mixed Mamba Network with Redetection Strategy for Multi-Drone Object Tracking
+# TSMMR: A Mixed Mamba Network with Cross-Drone Template Fusion and Text-Guided Redetection for Robust Aerial Tracking
 ![image](https://github.com/JerryBryant24/TSMMR/blob/main/12.jpg)
 
 This repository contains the implementation of a novel Template Sharing-enhanced Mixed Mamba Network with Redetection strategy (TSMMR) for robust multi-drone single object tracking. The framework addresses key challenges such as viewpoint inconsistency, occlusion, and target loss in collaborative aerial systems. Its core innovations include a Dynamic Template Interaction Adapter (DTIA) for cross-drone feature complementation and a Text-Guided Cross-Drone Redetection strategy for robust recovery.
